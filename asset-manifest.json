@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/protoscape/static/css/main.f58ca0d9.css",
+    "main.js": "/protoscape/static/js/main.2e7a7232.js",
+    "static/js/787.b22ce293.chunk.js": "/protoscape/static/js/787.b22ce293.chunk.js",
+    "static/media/back.jpg": "/protoscape/static/media/back.bfc84268b92767899770.jpg",
+    "index.html": "/protoscape/index.html",
+    "main.f58ca0d9.css.map": "/protoscape/static/css/main.f58ca0d9.css.map",
+    "main.2e7a7232.js.map": "/protoscape/static/js/main.2e7a7232.js.map",
+    "787.b22ce293.chunk.js.map": "/protoscape/static/js/787.b22ce293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58ca0d9.css",
+    "static/js/main.2e7a7232.js"
+  ]
+}
