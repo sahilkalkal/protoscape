@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/protoscape/static/css/main.5e92e882.css",
-    "main.js": "/protoscape/static/js/main.2e7a7232.js",
+    "main.css": "/protoscape/static/css/main.ffa4c7b7.css",
+    "main.js": "/protoscape/static/js/main.bb798008.js",
     "static/js/787.b22ce293.chunk.js": "/protoscape/static/js/787.b22ce293.chunk.js",
     "static/media/back.jpg": "/protoscape/static/media/back.bfc84268b92767899770.jpg",
     "index.html": "/protoscape/index.html",
-    "main.5e92e882.css.map": "/protoscape/static/css/main.5e92e882.css.map",
-    "main.2e7a7232.js.map": "/protoscape/static/js/main.2e7a7232.js.map",
+    "main.ffa4c7b7.css.map": "/protoscape/static/css/main.ffa4c7b7.css.map",
+    "main.bb798008.js.map": "/protoscape/static/js/main.bb798008.js.map",
     "787.b22ce293.chunk.js.map": "/protoscape/static/js/787.b22ce293.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e92e882.css",
-    "static/js/main.2e7a7232.js"
+    "static/css/main.ffa4c7b7.css",
+    "static/js/main.bb798008.js"
   ]
 }
